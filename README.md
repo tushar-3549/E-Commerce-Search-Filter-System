@@ -1,3 +1,9 @@
+#User Interface:
+![image](https://github.com/tushar-3549/E-Commerce-Search-Filter-System/assets/99356217/fd890ed6-a034-423b-98b1-1c0e0efdef60)
+
+![image](https://github.com/tushar-3549/E-Commerce-Search-Filter-System/assets/99356217/bd8297a5-44e4-4da0-a562-a912f410316b)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
