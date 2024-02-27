@@ -1,0 +1,14 @@
+.recommended-flex {
+    display: flex;
+    margin-left: 21rem;
+}
+.recommended-title {
+    margin-left: 21rem;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.btns {
+    background: #111;
+    color: white;
+}
